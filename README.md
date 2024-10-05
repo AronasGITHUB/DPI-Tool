@@ -10,7 +10,7 @@ Go to the dpi-tool.sh file, and install it.
 
 ### Execution
 1. Open a terminal and type: `chmod +x dpi-tool.sh`. This makes the file executable.
-2. Type `./dpi-tool.sh`. You will get a new command to execute the tool: `dpi-sh`
+2. Type `./dpi-tool.sh`. 
 
 ### Uninstaller
 1. Open a terminal and then type `unalias dpi-sh`
