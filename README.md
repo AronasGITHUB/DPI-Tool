@@ -1,4 +1,6 @@
 # DPI-Tool
+DPI stands for Debian Package Installer; it installs applications from Debian packages for you.
+
 A debian package installer tool. 
 This tool is not a debian package searcher and installer, this tool installs the app you are trying to install, but you get a debian package only.
 
