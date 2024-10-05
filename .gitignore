@@ -1,0 +1,31 @@
+# Ignore compiled files
+*.o
+*.so
+*.a
+
+# Ignore backup files
+*~
+*.bak
+*.swp
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+tmp/
+*.tmp
+*.temp
+
+# Ignore directories for extracted packages
+/packages/
+
+# Ignore user-specific files
+*.DS_Store
+*.idea/
+.vscode/
+
+# Ignore environment files
+.env
+
+# Ignore any Debian package files
+*.deb
