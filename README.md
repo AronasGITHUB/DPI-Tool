@@ -18,9 +18,15 @@ Go to the dpi-tool.sh file, and install it.
 Delete the dpi tool with `rm dpi-tool.sh`
 
 ## How to install and execute dpi-tool-gui.sh
-1. Open a terminal and type `sudo apt install dialog`
-2. Type `chmod +x dpi-tool-gui.sh`
-3. Type `./dpi-tool-gui.sh`
+### Installation
+Install the file, open a terminal and type `sudo apt install dialog`.
+
+### Execution
+1. Type `chmod +x dpi-tool-gui.sh`
+2. Type `./dpi-tool-gui.sh`
+
+### Uninstaller
+Delete the dpi tool gui with `rm dpi-tool-gui.sh`
 
 ## Q&A
 ### Q: What should i install, dpi-tool.sh, or dpi-tool-gui.sh?
