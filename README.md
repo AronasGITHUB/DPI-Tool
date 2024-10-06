@@ -16,3 +16,7 @@ Go to the dpi-tool.sh file, and install it.
 
 ### Uninstaller
 Delete the dpi tool with `rm dpi-tool.sh`
+
+## Q&A
+### Q: What should i install, dpi-tool.sh, or dpi-tool-gui.sh?
+A: If you love GUI, you might want to install dpi-tool-gui.sh. If you love the terminal, you might want to install dpi-tool.sh. If you dont care, you can install whatever you want. My recommendation if you dont care is dpi-tool.sh.
