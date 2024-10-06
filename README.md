@@ -15,5 +15,4 @@ Go to the dpi-tool.sh file, and install it.
 2. Type `./dpi-tool.sh`. 
 
 ### Uninstaller
-1. Open a terminal and then type `unalias dpi-sh`
-2. Delete the dpi tool with `rm dpi-tool.sh`
+Delete the dpi tool with `rm dpi-tool.sh`
